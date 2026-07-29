@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kalcao.github.io/resources-wnpwd0/sitemap.xml
